@@ -1,0 +1,10 @@
+{
+  "name": "evolvsportz",
+  "version": "0.1.0",
+  "description": "Connects Claude to your EvolvSportz account: drills, practice sessions and teams for coaches, plus admin tools for club, site and team admins.",
+  "author": { "name": "EvolvSportz" },
+  "homepage": "https://github.com/gtcorner12/evolv-sportz-ai",
+  "repository": "https://github.com/gtcorner12/evolv-sportz-ai",
+  "license": "MIT",
+  "keywords": ["youth sports", "soccer", "coaching", "drills", "club admin"]
+}

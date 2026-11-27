@@ -1,0 +1,17 @@
+{
+  "name": "evolvsportz",
+  "owner": { "name": "EvolvSportz" },
+  "metadata": {
+    "description": "EvolvSportz for Claude: plan practices from animated drills and manage clubs, sites, teams and invites."
+  },
+  "plugins": [
+    {
+      "name": "evolvsportz",
+      "source": "./plugins/evolvsportz",
+      "description": "Connects Claude to your EvolvSportz account: drills, practice sessions and teams for coaches, plus admin tools for club, site and team admins.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["youth sports", "soccer", "coaching", "drills", "club admin"]
+    }
+  ]
+}
