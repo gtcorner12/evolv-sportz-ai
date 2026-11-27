@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "evolvsportz": {
+      "type": "http",
+      "url": "https://evolvsportz-qtae-staging.azurewebsites.net/api/mcp"
+    }
+  }
+}
